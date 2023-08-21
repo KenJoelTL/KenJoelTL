@@ -424,13 +424,13 @@ Developer intrigued by web development and distributed systems. Skilled in both 
 <p align="left">
 	<img
 		align="center"
-		height="225"
+		height="205"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=kenjoeltl&show_icons=true&locale=en&layout=donut"
 		alt="kenjoeltl language card"
 	/>
 	&nbsp;<img
 		align="center"
-		height="225"
+		height="205"
 		src="https://github-readme-stats.vercel.app/api?username=kenjoeltl&show_icons=true&locale=en&include_all_commits=true"
 		alt="kenjoeltl stats card"
 	/>
