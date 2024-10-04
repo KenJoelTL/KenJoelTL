@@ -7,7 +7,7 @@
 
 <h3 align="left">🍵 About Me:</h3>
 
-Developer intrigued by web development and distributed systems. Skilled in both frontend and backend tech. Enjoys delving into distributed computing and building creative projects at the intersection of web and systems.
+Developer intrigued by web development and distributed systems. Skilled in both frontend and backend technologies. Passionate about exploring distributed computing and building creative projects at the intersection of web and systems.
 
 - 🔭 I’m currently working on [MangaPunk Official](https://ko-fi.com/mangapunk) and other secret projects 🤫
 - 🌱 I’m currently learning **Kubernetes** and **Go**
